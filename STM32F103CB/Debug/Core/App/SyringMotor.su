@@ -1,0 +1,16 @@
+keyu_Motor_Base.hpp:242:7:void MotorBase::setResetState(MT_ResetState)	16	static
+keyu_Motor_Base.hpp:251:15:MT_ConfigDef MotorBase::getConfig()	24	static
+keyu_CommProtocol.h:132:2:__CMD_MessageDef::~__CMD_MessageDef()	16	static
+keyu_CommProtocol.h:252:16:__CMD_TaskDef::~__CMD_TaskDef()	16	static
+keyu_Device.hpp:48:15:virtual void CDevice::OnActive(uint32_t)	16	static
+keyu_Device.hpp:79:32:virtual const CDevice::Dev_PerportyDef CDevice::getPerporty()	16	static
+keyu_Device.hpp:92:10:CDevice::~CDevice()	24	static
+keyu_Device.hpp:92:10:virtual CDevice::~CDevice()	16	static
+keyu_motor.hpp:87:10:Motor::~Motor()	16	static
+keyu_motor.hpp:87:10:virtual Motor::~Motor()	16	static
+keyu_motor.hpp:88:15:virtual void Motor::Init()	16	static
+SyringMotor.cpp:12:6:virtual void SyringMotor::Calibration(void*, uint8_t)	32	static
+SyringMotor.cpp:19:6:virtual void SyringMotor::Init()	24	static
+SyringMotor.cpp:28:9:virtual int32_t SyringMotor::GetTargetOfTask(uint8_t, int16_t)	64	static
+SyringMotor.hpp:33:7:SyringMotor::~SyringMotor()	16	static
+SyringMotor.hpp:33:7:virtual SyringMotor::~SyringMotor()	16	static

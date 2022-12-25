@@ -1,0 +1,12 @@
+keyu_CommProtocol.h:132:2:__CMD_MessageDef::~__CMD_MessageDef()	16	static
+keyu_CommProtocol.h:252:16:__CMD_TaskDef::~__CMD_TaskDef()	16	static
+keyu_Device.hpp:48:15:virtual void CDevice::OnActive(uint32_t)	16	static
+keyu_Device.hpp:79:32:virtual const CDevice::Dev_PerportyDef CDevice::getPerporty()	16	static
+keyu_Device.hpp:92:10:CDevice::~CDevice()	24	static
+keyu_Device.hpp:92:10:virtual CDevice::~CDevice()	16	static
+keyu_motor.hpp:87:10:Motor::~Motor()	16	static
+keyu_motor.hpp:87:10:virtual Motor::~Motor()	16	static
+keyu_motor.hpp:88:15:virtual void Motor::Init()	16	static
+YMotor.cpp:11:9:virtual int32_t YMotor::GetPredefPosition(uint8_t)	32	static
+ymotor.hpp:62:7:YMotor::~YMotor()	16	static
+ymotor.hpp:62:7:virtual YMotor::~YMotor()	16	static
