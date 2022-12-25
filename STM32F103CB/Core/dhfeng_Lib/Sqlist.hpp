@@ -14,6 +14,7 @@ template<class T>
 class Sqlist
 {
 public:
+//  增加T	
     Sqlist(int size)
     {
         last=-1;
